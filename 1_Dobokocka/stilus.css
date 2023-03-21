@@ -1,0 +1,74 @@
+﻿body {
+    font-size: 11pt;
+    background-image: url(bg.png);
+    font-family: Verdana;
+}
+
+p {
+    color: #00008b;
+    margin-left: 5px;
+}
+
+.tartalom {
+    width: 930px;
+    background-color: #f0f8ff;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.p2 {
+    text-align: justify;
+    width: 280px;
+    margin-left: 5px;
+}
+
+.p3 {
+    text-align: justify;
+    word-wrap: break-word;
+    margin-left: 5px;
+    font-size: small;
+    font-style: italic;
+}
+
+h1, h2 {
+    padding: 5px;
+    font-size: 17px;
+    color: #dc143c;
+}
+
+
+hr {
+    width: 80%;
+}
+
+.elso {
+    display: inline-block;
+}
+
+.masodik {
+    display: inline-block;
+}
+
+.harmadik {
+    display: inline-block;
+}
+
+.harmadik {
+    display: inline-block;
+}
+
+.kep {
+    margin-left: 30px;
+    width: 240px;
+}
+
+a:link {
+    color: #dc143c;
+    margin-left: 5px;
+    color: #dc143c;
+}
+
+a {
+    color: #dc143c;
+}
+
